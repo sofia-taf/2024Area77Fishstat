@@ -107,7 +107,7 @@ year,stock,capture,effort
 1966,Merluccius productus,31,278218543.9
 1966,Pleuronectiformes,10423,278218543.9
 1966,Promethichthys prometheus,1459,278218543.9
-1966,Trichiuridae,0,278218543.9
+1966,Trichiuridae,0.001,278218543.9
 1966,Xiphias gladius,63245,278218543.9
 1967,Chanos chanos,700,394027505.8
 1967,Elasmobranchii,33,394027505.8
@@ -117,7 +117,7 @@ year,stock,capture,effort
 1967,Merluccius productus,7,394027505.8
 1967,Pleuronectiformes,9611,394027505.8
 1967,Promethichthys prometheus,1723,394027505.8
-1967,Trichiuridae,0,394027505.8
+1967,Trichiuridae,0.001,394027505.8
 1967,Xiphias gladius,91980,394027505.8
 1968,Chanos chanos,900,300239324.9
 1968,Elasmobranchii,32,300239324.9
@@ -125,21 +125,21 @@ year,stock,capture,effort
 1968,Grampus griseus,5000,300239324.9
 1968,Katsuwonus pelamis,100,300239324.9
 1968,Makaira nigricans,2690,300239324.9
-1968,Merluccius productus,0,300239324.9
+1968,Merluccius productus,0.001,300239324.9
 1968,Pleuronectiformes,11387,300239324.9
 1968,Promethichthys prometheus,1460,300239324.9
-1968,Trichiuridae,0,300239324.9
+1968,Trichiuridae,0.001,300239324.9
 1968,Xiphias gladius,105401,300239324.9
 1969,Chanos chanos,1100,294094973.4
 1969,Elasmobranchii,24,294094973.4
-1969,Engraulis mordax,0,294094973.4
+1969,Engraulis mordax,0.001,294094973.4
 1969,Grampus griseus,3900,294094973.4
 1969,Katsuwonus pelamis,200,294094973.4
 1969,Makaira nigricans,4768,294094973.4
 1969,Merluccius productus,1,294094973.4
 1969,Pleuronectiformes,11021,294094973.4
 1969,Promethichthys prometheus,1886,294094973.4
-1969,Trichiuridae,0,294094973.4
+1969,Trichiuridae,0.001,294094973.4
 1969,Xiphias gladius,112791,294094973.4
 1970,Chanos chanos,800,215900152.2
 1970,Elasmobranchii,0.001,215900152.2
@@ -148,7 +148,7 @@ year,stock,capture,effort
 1970,Grampus griseus,5700,215900152.2
 1970,Katsuwonus pelamis,210,215900152.2
 1970,Makaira nigricans,6000,215900152.2
-1970,Merluccius productus,0,215900152.2
+1970,Merluccius productus,0.001,215900152.2
 1970,Penaeus stylirostris,2100,215900152.2
 1970,Pleuronectiformes,5900,215900152.2
 1970,Promethichthys prometheus,1300,215900152.2
@@ -157,11 +157,11 @@ year,stock,capture,effort
 1971,Chanos chanos,600,588196368.4
 1971,Elasmobranchii,0.001,588196368.4
 1971,Engraulis mordax,400,588196368.4
-1971,Euthynnus lineatus,0,588196368.4
+1971,Euthynnus lineatus,0.001,588196368.4
 1971,Grampus griseus,1700,588196368.4
 1971,Katsuwonus pelamis,50,588196368.4
 1971,Makaira nigricans,2800,588196368.4
-1971,Merluccius productus,0,588196368.4
+1971,Merluccius productus,0.001,588196368.4
 1971,Penaeus stylirostris,2800,588196368.4
 1971,Pleuronectiformes,6200,588196368.4
 1971,Promethichthys prometheus,1500,588196368.4
@@ -174,7 +174,7 @@ year,stock,capture,effort
 1972,Grampus griseus,2300,351810395.1
 1972,Katsuwonus pelamis,50,351810395.1
 1972,Makaira nigricans,3602,351810395.1
-1972,Merluccius productus,0,351810395.1
+1972,Merluccius productus,0.001,351810395.1
 1972,Penaeus stylirostris,2400,351810395.1
 1972,Pleuronectiformes,4600,351810395.1
 1972,Promethichthys prometheus,1300,351810395.1
@@ -187,11 +187,11 @@ year,stock,capture,effort
 1973,Grampus griseus,2100,198453129.1
 1973,Katsuwonus pelamis,120,198453129.1
 1973,Makaira nigricans,4504,198453129.1
-1973,Merluccius productus,0,198453129.1
+1973,Merluccius productus,0.001,198453129.1
 1973,Penaeus stylirostris,3400,198453129.1
 1973,Pleuronectiformes,4300,198453129.1
 1973,Promethichthys prometheus,1100,198453129.1
-1973,Trichiuridae,0,198453129.1
+1973,Trichiuridae,0.001,198453129.1
 1973,Xiphias gladius,152500,198453129.1
 1974,Auxis thazard,22,773224585.5
 1974,Chanos chanos,33,773224585.5
@@ -426,7 +426,7 @@ year,stock,capture,effort
 1989,Trichiuridae,277,969113753.4
 1989,Xiphias gladius,110202,969113753.4
 1990,Auxis thazard,1471,1025083243
-1990,Chanos chanos,0,1025083243
+1990,Chanos chanos,0.001,1025083243
 1990,Elasmobranchii,184,1025083243
 1990,Engraulis mordax,1749,1025083243
 1990,Euthynnus lineatus,360,1025083243
@@ -441,7 +441,7 @@ year,stock,capture,effort
 1990,Trichiuridae,264,1025083243
 1990,Xiphias gladius,275483,1025083243
 1991,Auxis thazard,1526,1069107826
-1991,Chanos chanos,0,1069107826
+1991,Chanos chanos,0.001,1069107826
 1991,Elasmobranchii,233,1069107826
 1991,Engraulis mordax,462,1069107826
 1991,Euthynnus lineatus,130,1069107826
@@ -456,7 +456,7 @@ year,stock,capture,effort
 1991,Trichiuridae,290,1069107826
 1991,Xiphias gladius,306690,1069107826
 1992,Auxis thazard,1310,912704212.1
-1992,Chanos chanos,0,912704212.1
+1992,Chanos chanos,0.001,912704212.1
 1992,Elasmobranchii,299,912704212.1
 1992,Engraulis mordax,713,912704212.1
 1992,Euthynnus lineatus,20,912704212.1
@@ -471,7 +471,7 @@ year,stock,capture,effort
 1992,Trichiuridae,275,912704212.1
 1992,Xiphias gladius,190239,912704212.1
 1993,Auxis thazard,1279,671533279.2
-1993,Chanos chanos,0,671533279.2
+1993,Chanos chanos,0.001,671533279.2
 1993,Elasmobranchii,697,671533279.2
 1993,Engraulis mordax,505,671533279.2
 1993,Euthynnus lineatus,73,671533279.2
@@ -486,7 +486,7 @@ year,stock,capture,effort
 1993,Trichiuridae,303,671533279.2
 1993,Xiphias gladius,161485,671533279.2
 1994,Auxis thazard,1349,1149356729
-1994,Chanos chanos,0,1149356729
+1994,Chanos chanos,0.001,1149356729
 1994,Elasmobranchii,284,1149356729
 1994,Engraulis mordax,384,1149356729
 1994,Euthynnus lineatus,130,1149356729
@@ -501,7 +501,7 @@ year,stock,capture,effort
 1994,Trichiuridae,298,1149356729
 1994,Xiphias gladius,200879,1149356729
 1995,Auxis thazard,906,1079527343
-1995,Chanos chanos,0,1079527343
+1995,Chanos chanos,0.001,1079527343
 1995,Elasmobranchii,224,1079527343
 1995,Engraulis mordax,118,1079527343
 1995,Euthynnus lineatus,102,1079527343
@@ -516,7 +516,7 @@ year,stock,capture,effort
 1995,Trichiuridae,286,1079527343
 1995,Xiphias gladius,265324,1079527343
 1996,Auxis thazard,1266,1187972211
-1996,Chanos chanos,0,1187972211
+1996,Chanos chanos,0.001,1187972211
 1996,Elasmobranchii,729,1187972211
 1996,Engraulis mordax,412,1187972211
 1996,Euthynnus lineatus,444,1187972211
@@ -532,7 +532,7 @@ year,stock,capture,effort
 1996,Trichiuridae,206,1187972211
 1996,Xiphias gladius,208650,1187972211
 1997,Auxis thazard,5787,1385597735
-1997,Chanos chanos,0,1385597735
+1997,Chanos chanos,0.001,1385597735
 1997,Elasmobranchii,1318,1385597735
 1997,Engraulis mordax,2036,1385597735
 1997,Euthynnus lineatus,79,1385597735
@@ -548,7 +548,7 @@ year,stock,capture,effort
 1997,Trichiuridae,200,1385597735
 1997,Xiphias gladius,174986,1385597735
 1998,Auxis thazard,3259,1357103768
-1998,Chanos chanos,0,1357103768
+1998,Chanos chanos,0.001,1357103768
 1998,Elasmobranchii,645,1357103768
 1998,Engraulis mordax,2056,1357103768
 1998,Euthynnus lineatus,250,1357103768
@@ -564,7 +564,7 @@ year,stock,capture,effort
 1998,Trichiuridae,329,1357103768
 1998,Xiphias gladius,153000,1357103768
 1999,Auxis thazard,2338,1592896766
-1999,Chanos chanos,0,1592896766
+1999,Chanos chanos,0.001,1592896766
 1999,Elasmobranchii,967,1592896766
 1999,Engraulis mordax,737,1592896766
 1999,Euthynnus lineatus,89,1592896766
@@ -580,7 +580,7 @@ year,stock,capture,effort
 1999,Trichiuridae,309,1592896766
 1999,Xiphias gladius,108734,1592896766
 2000,Auxis thazard,1645,930125664.9
-2000,Chanos chanos,0,930125664.9
+2000,Chanos chanos,0.001,930125664.9
 2000,Elasmobranchii,10534,930125664.9
 2000,Engraulis mordax,547,930125664.9
 2000,Euthynnus lineatus,11,930125664.9
@@ -596,7 +596,7 @@ year,stock,capture,effort
 2000,Trichiuridae,274,930125664.9
 2000,Xiphias gladius,116221,930125664.9
 2001,Auxis thazard,833,1090560009
-2001,Chanos chanos,0,1090560009
+2001,Chanos chanos,0.001,1090560009
 2001,Elasmobranchii,13504,1090560009
 2001,Engraulis mordax,733,1090560009
 2001,Euthynnus lineatus,13,1090560009
